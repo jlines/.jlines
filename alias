@@ -1,0 +1,1 @@
+alias hi="history | grep -i $1"
