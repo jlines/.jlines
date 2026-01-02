@@ -1,0 +1,1 @@
+curl -fsSL [https://gist.githubusercontent.com/USERNAME/GIST_ID/raw/setup-jlines.sh](https://gist.githubusercontent.com/jlines/1d61e4a1898932f4db330f618ea7a5fb/raw/f1874fce5218b47d246c3a2152f73c6caca300bb/bootstrap.sh) | sh
