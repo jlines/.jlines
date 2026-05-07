@@ -1,2 +1,2 @@
 export PATH="~/bin:$PATH"
-source ~/.venv/bin/activate
+#source ~/.venv/bin/activate
